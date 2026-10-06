@@ -63,7 +63,7 @@ This repository serves as an enterprise-grade guide tracking both **commercial S
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted by **GitHub Star Count (Descending)**.
+Sorted by **GitHub Stars_Count (Descending)**.
 
 ### 🔑 Identity & Access Management (IAM)
 
@@ -217,7 +217,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add/Update** entries in `README.md` maintaining alphabetical order or star ranking.
-3. 📋 **Include**: Project Name, Official URL, License Type, Star Count badge (for open-source), and 1–2 sentence description.
+3. 📋 **Include**: Project Name, Official URL, License Type, Stars_Count badge (for open-source), and 1–2 sentence description.
 4. 🚀 **Submit a Pull Request (PR)** with a clear summary of changes.
 
 Check out our full list of curated tech resources at **[Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)**.
